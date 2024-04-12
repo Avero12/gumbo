@@ -1,0 +1,39 @@
+body{color: orange; background-repeat: no-repeat;background-image: url(gumbo\ bg.jpg);
+background-position: center; background-attachment: scroll; background-size: cover;
+}
+
+h1{color: orange; font-size: 50px; text-align: center;background-color: black;}
+
+.container{background-color: black;
+    height: 150px; width: 300px
+    ;margin: 90px auto; position: relative;
+    }
+
+    .container h2{margin: 0;padding: 0;
+        font-family: 'Courier New', Courier, monospace;
+font-size: 3em;
+text-transform: uppercase;text-align: center;
+position: relative; top: 50%; color: orange;
+transform: translateY(-50%);
+    }
+
+h3{background-color: black;color: orange;font-size: 35px;}
+
+p{background-color: black;color: orange;font-size: 30px;}
+
+.container{background-color: black;
+    height: 50px; width: 300px
+    ;margin: 90px auto; position: relative;
+    }
+.container h4{margin: 0;padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+font-size: 3em;
+text-transform: uppercase;text-align: center;
+position: relative; top: 50%; color: orange;
+transform: translateY(-50%);
+    
+}
+h5{background-color: black; color: orange;}
+
+h6{background-color: black;color: orange;}
+img{height: 50px; width: 50px;}
